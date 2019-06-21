@@ -4,6 +4,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to add custom ranges to the ArcScale in code
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e1456/)**
+<!-- run online end -->
 
 
 <p>The <a href="http://documentation.devexpress.com/#WindowsForms/clsDevExpressXtraGaugesCoreModelArcScaletopic">ArcScale</a> element has the <a href="http://documentation.devexpress.com/#WindowsForms/DevExpressXtraGaugesCoreModelArcScale_Rangestopic">Ranges</a> property, providing access to the collection of custom ranges. You can populate this collection with instances of the ArcScaleRangeWeb class. This class has the following properties:</p><p>The <strong>AppearanceRange</strong> property provides the capability to define the BorderColor, BorderWidth and ContentColor of the ArcScaleRangeWeb.<br />
